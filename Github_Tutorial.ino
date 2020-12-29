@@ -26,7 +26,9 @@ void loop()
   
   Serial.print("The value is: ");
   Serial.println(myValue);
-
+  
   delay(350);
 }
-
+void ishita(){
+System.out.println("Let's Go!!!!!!!!!!!!!!!!!!");
+}
